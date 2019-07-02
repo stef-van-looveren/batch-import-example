@@ -1,4 +1,6 @@
 # Drupal 8 batch import example with interaction
+![alt text](https://github.com/stef-van-looveren/batch-import-example/blob/master/docs/batch_example.gif?raw=true "Drupal 8 batch import example")
+
 This example module will import 3 dogs from a json file as nodes:
 `[
    {
