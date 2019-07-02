@@ -1,7 +1,18 @@
 # Drupal 8 batch import example with interaction
-![alt text](https://github.com/stef-van-looveren/batch-import-example/blob/master/docs/batch_example.gif?raw=true "Drupal 8 batch import example")
 
-This example module will import 3 dogs from a json file as nodes.
+This example module will import 3 dogs from a json file as nodes:
+`[
+   {
+     "name": "Whiskers"
+   },
+   {
+     "name": "Woof"
+   },
+   {
+     "name": "Fluffy"
+   }
+ ]
+`
 
 ##Batch processing
 The form will create a batch process, which runs a small function to create the nodes. Batch processing is important when running imports with higher volumes to prevent the script to timeout.
