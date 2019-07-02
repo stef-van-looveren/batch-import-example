@@ -1,0 +1,5 @@
+name: Batch import example
+type: module
+description: Shows how to batch import with interaction
+core: 8.x
+package: STEFVANLOOVEREN.ME
