@@ -16,10 +16,10 @@ This example module will import 3 dogs from a json file as nodes:
 ]
 ```
 
-##Batch processing
+## Batch processing
 The form will create a batch process, which runs a small function to create the nodes. Batch processing is important when running imports with higher volumes to prevent the script to timeout.
 
-##How to
+## How to
 1. Enable the module
 2. Clear caches
 3. Go to `admin/batch-import-example` and submit the form
