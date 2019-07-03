@@ -25,7 +25,7 @@ The form will create a batch process, which runs a small function to create the 
 3. Go to `admin/batch-import-example` and submit the form
 4. A batch process will start and give interaction about which dog he is importing.
 
-## Tutorial
-For a tutorial on the usage of this module: [Create a batch process with interaction in drupal 8](https://stefvanlooveren.me/blog/create-batch-process-interaction-drupal-8-solved).
+## Blog
+For a blog on the usage of this module: [Create a batch process with interaction in drupal 8](https://stefvanlooveren.me/blog/create-batch-process-interaction-drupal-8-solved).
 ## Thanks
-This module was build while working for [VITO (Flanders Institue for Technological Research)](https://www.vito.be).
+This module was built while working for [VITO (Flanders Institue for Technological Research)](https://www.vito.be).
